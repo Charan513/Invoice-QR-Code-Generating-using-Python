@@ -41,4 +41,3 @@ The "**Invoice QR Code Generator**" is a Python application designed to simplify
 - Inclusion of additional invoice details.
 - Improved error handling and reporting.
 - Support for a broader range of payment modes.
-
