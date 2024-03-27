@@ -45,4 +45,4 @@ The "**Invoice QR Code Generator**" is a Python application designed to simplify
 
 ## Author
 
-[Kandukuri Charan](https://github.com/Charan513)
+  [Kandukuri Charan](https://github.com/Charan513)
